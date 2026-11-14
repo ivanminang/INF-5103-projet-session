@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets et configurations locales
+.env.*
+!.env.example
+
+# Fichiers système Windows
+Thumbs.db
